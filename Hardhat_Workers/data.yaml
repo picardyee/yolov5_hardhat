@@ -1,0 +1,6 @@
+train: C:\Users\User\PycharmProjects\yolov5_hardhat\Hardhat_Workers\train\images
+test: C:\Users\User\PycharmProjects\yolov5_hardhat\Hardhat_Workers\test\images
+val: C:\Users\User\PycharmProjects\yolov5_hardhat\Hardhat_Workers\test\images
+
+nc: 3
+names: ['head', 'helmet', 'person']
